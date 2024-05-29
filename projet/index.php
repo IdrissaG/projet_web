@@ -13,6 +13,8 @@ include "connexion.php";
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <script src="js/script.js" crossorigin="anonymous"></script>
 </head>
+
+
 <body>
     <section class="header-home">
         <!-- menu -->
